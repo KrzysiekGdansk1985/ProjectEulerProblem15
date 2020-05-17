@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"EulerProblem15","l":"EulerProblem15()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"EulerProblem15","l":"howManyRoutes(int)"},{"p":"<Unnamed>","c":"EulerProblem15","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"EulerProblem15","l":"silnia(int)"}]
